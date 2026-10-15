@@ -12,7 +12,7 @@ As a student in the **Grande École Program (PGE) at Epitech**, I'm passionate a
 - **Cybersecurity Tools:** SysReptor, BurpSuite, Ghidra, Exegol
 - **Currently learning:** Cybersecurity, OSINT & other areas of IT
 
--> You can access to my [My-Portfolio here](http://beskarjp.github.io/My-Portfolio/) !
+You can access to my [My-Portfolio here](http://beskarjp.github.io/My-Portfolio/) !
 
 ---
 
